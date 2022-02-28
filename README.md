@@ -1,6 +1,8 @@
+<!--
+
 ## [Johnny Sanders](https://github.com/JohnnySanderss)
 
-### Currently learning Front-End Web Development aswell as getting into doodling. :P 
+### Currently learning Front-End Web Development aswell as getting into doodling. :P
 
 #### [johnnysanderss.github.io] (https://johnnysanderss.github.io/)
 
@@ -16,3 +18,5 @@
 
 
 - [ Learn more about 'Getting In Touch!' ] (https://johnnysanderss.github.io/contact.md/)
+
+ -->
